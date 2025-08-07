@@ -3,9 +3,10 @@ DATA ON BLOOD PATHOGENS INCIDENCE IN NEOTROPICAL AMPHIBIANS
 This repository contains the data and code to reproduce the analysis in the article "Xavier et al., 2025 - Temperature and ecomorphology linked to blood pathogens incidence in neotropical amphibians"
 
 File Description
-
 xavier_etal_2025_dataset - Full dataset containing variables and positive per parasites per species
+
 xavier_etal2025_pglmm - R code used in the analyses
+
 Arvore_16s_full.tree - Amphibian phylogenetic tree used in the study
 
 
